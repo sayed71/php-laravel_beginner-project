@@ -1,2 +1,2 @@
 # PHP-Laravel-Beginner-Project
-For Beginner, Show Hellow World Message
+For Beginner, Show Hello World Message
